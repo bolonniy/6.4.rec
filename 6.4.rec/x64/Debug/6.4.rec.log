@@ -1,0 +1,4 @@
+﻿  6.4.rec.cpp
+D:\коди для гіт\6.4.rec\6.4.rec.cpp(46,20): warning C4018: '<': signed/unsigned mismatch
+D:\коди для гіт\6.4.rec\6.4.rec.cpp(60,15): warning C4018: '<': signed/unsigned mismatch
+  6.4.rec.vcxproj -> D:\коди для гіт\6.4.rec\x64\Debug\6.4.rec.exe
